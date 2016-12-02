@@ -13,6 +13,8 @@
 
 @interface AppDelegate ()
 
+@property (nonatomic, strong)NSArray *array;
+
 @end
 
 @implementation AppDelegate
